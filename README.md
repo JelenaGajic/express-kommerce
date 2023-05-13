@@ -1,6 +1,6 @@
 # express-kommerce
 
-## Commerce tools API
+This project is a back-end application that demonstrates use of Commerce Tool API: https://docs.commercetools.com/api/.
 
 ## Project setup
 ```
